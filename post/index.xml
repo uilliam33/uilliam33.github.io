@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Vitae</title>
+		<link>http://example.org/post/</link>
+		<description>Recent content in Posts on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Thu, 24 Feb 2022 15:01:42 +0800</lastBuildDate>
+		<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>First</title>
+			<link>http://example.org/post/first/</link>
+			<pubDate>Thu, 24 Feb 2022 15:01:42 +0800</pubDate>
+			<guid>http://example.org/post/first/</guid>
+			<description>
+			Welcome hugo blog 
+			</description>
+		</item>
+	</channel>
+</rss>
